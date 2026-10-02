@@ -1,0 +1,16 @@
+## Chapter 2: Framing the Business Problem and the Seven Patterns of AI — Flashcards
+
+| # | Front (Question) | Back (Answer) |
+|---|-----------------|---------------|
+| 1 | List the Seven Patterns of AI in the CPMAI framework | 1) Hyperpersonalization 2) Autonomous Systems 3) Predictive Analytics/Decision Support 4) Conversational/Human Interaction 5) Patterns and Anomalies 6) Recognition Patterns 7) Goal-Driven Systems. Exam tip: memorize with acronym 'HAP-CPR-G'. |
+| 2 | Hyperpersonalization pattern — definition and example | Tailors content, offers, or experiences to an individual using their data. Example: product recommendation engines, dynamic pricing. Exam tip: think 'Netflix/Amazon recommendations.' |
+| 3 | Autonomous Systems pattern — definition and example | Systems that sense, decide, and act independently in an environment without human control. Example: self-driving cars, delivery drones, warehouse robots. |
+| 4 | Predictive Analytics and Decision Support pattern — definition and example | Forecasts a future outcome to support human decision-making. Example: predictive maintenance, demand forecasting, credit risk scoring. |
+| 5 | Conversational/Human Interaction pattern — definition and example | Uses NLP/NLU to enable dialogue between humans and systems. Example: chatbots, voice assistants, virtual agents. |
+| 6 | Patterns and Anomalies pattern — definition and example | Detects deviations from an established norm or baseline. Example: fraud detection, network intrusion detection, manufacturing defect monitoring. Exam trap: often confused with Predictive Analytics — Anomalies detect existing deviation NOW, Predictive forecasts a FUTURE event. |
+| 7 | Recognition Patterns — definition and example | Identifies and classifies objects, entities, speech, or text within data. Example: facial recognition, OCR, speech-to-text. |
+| 8 | Goal-Driven Systems pattern — definition and example | Optimizes toward a defined objective function within constraints, often via reinforcement learning. Example: supply chain routing, dynamic resource allocation, game-playing agents. |
+| 9 | Goal-Driven Systems vs. Autonomous Systems — key distinction | Goal-Driven = optimizing an objective function within constraints. Autonomous = independent sensing/acting in an environment. Exam tip: a self-driving car is Autonomous even though it also pursues goals — classification depends on independent physical/digital action, not optimization alone. |
+| 10 | CPMAI Business Understanding phase — required deliverable | A documented business problem statement, objectives, and measurable success criteria (AI project charter) before moving to Data Understanding. Exam tip: no data work should start before this is validated. |
+| 11 | SME validation technique when stakeholder interviews conflict | Conduct process walkthroughs/shadowing with subject matter experts to observe the actual process and reconcile conflicting stakeholder statements before selecting an AI pattern. |
+| 12 | Persona vs. Use Case in AI discovery | Persona = a representative profile of a user type (goals, pain points, behaviors). Use Case = a specific scenario describing how that persona interacts with the proposed AI solution to achieve a goal. Exam tip: personas inform WHO, use cases define WHAT/HOW. |
